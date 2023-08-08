@@ -1,2 +1,3 @@
-# hamu-v2
-Rouge Game Web of Arknights
+# Hamu
+
+rouge 比赛网页前端
