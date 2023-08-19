@@ -1,0 +1,70 @@
+Date : 2023-08-16 21:42:42
+Directory : f:\code\hamu-v2
+Total : 22 files,  1081 codes, 33 comments, 167 blanks, all 1281 lines
+
+Languages
++------------+------------+------------+------------+------------+------------+
+| language   | files      | code       | comment    | blank      | total      |
++------------+------------+------------+------------+------------+------------+
+| Vue        |         10 |        913 |         30 |        141 |      1,084 |
+| JavaScript |          6 |        114 |          3 |         16 |        133 |
+| CSS        |          2 |         37 |          0 |          7 |         44 |
+| HTML       |          1 |         13 |          0 |          1 |         14 |
+| Markdown   |          1 |          2 |          0 |          2 |          4 |
+| XML        |          2 |          2 |          0 |          0 |          2 |
++------------+------------+------------+------------+------------+------------+
+
+Directories
++---------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                      | files      | code       | comment    | blank      | total      |
++---------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                         |         22 |      1,081 |         33 |        167 |      1,281 |
+| . (Files)                                                                 |          3 |         44 |          3 |          8 |         55 |
+| public                                                                    |          1 |          1 |          0 |          0 |          1 |
+| src                                                                       |         18 |      1,036 |         30 |        159 |      1,225 |
+| src (Files)                                                               |          3 |         30 |          0 |         11 |         41 |
+| src\api                                                                   |          1 |         15 |          0 |          3 |         18 |
+| src\assets                                                                |          2 |         24 |          0 |          2 |         26 |
+| src\assets (Files)                                                        |          1 |          1 |          0 |          0 |          1 |
+| src\assets\css                                                            |          1 |         23 |          0 |          2 |         25 |
+| src\components                                                            |          5 |        406 |         29 |         75 |        510 |
+| src\components\common                                                     |          1 |         40 |          0 |          4 |         44 |
+| src\components\dashboard                                                  |          4 |        366 |         29 |         71 |        466 |
+| src\components\dashboard (Files)                                          |          2 |        343 |         29 |         61 |        433 |
+| src\components\dashboard\DashboardSidebar                                 |          2 |         23 |          0 |         10 |         33 |
+| src\pages                                                                 |          4 |        500 |          1 |         63 |        564 |
+| src\pages (Files)                                                         |          3 |        493 |          1 |         60 |        554 |
+| src\pages\dashboard                                                       |          1 |          7 |          0 |          3 |         10 |
+| src\router                                                                |          1 |         35 |          0 |          2 |         37 |
+| src\store                                                                 |          1 |          8 |          0 |          1 |          9 |
+| src\utils                                                                 |          1 |         18 |          0 |          2 |         20 |
++---------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++---------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| filename                                                                  | language   | code       | comment    | blank      | total      |
++---------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| f:\code\hamu-v2\README.md                                                 | Markdown   |          2 |          0 |          2 |          4 |
+| f:\code\hamu-v2\index.html                                                | HTML       |         13 |          0 |          1 |         14 |
+| f:\code\hamu-v2\public\vite.svg                                           | XML        |          1 |          0 |          0 |          1 |
+| f:\code\hamu-v2\src\App.vue                                               | Vue        |          7 |          0 |          3 |         10 |
+| f:\code\hamu-v2\src\api\index.js                                          | JavaScript |         15 |          0 |          3 |         18 |
+| f:\code\hamu-v2\src\assets\css\fonts.css                                  | CSS        |         23 |          0 |          2 |         25 |
+| f:\code\hamu-v2\src\assets\vue.svg                                        | XML        |          1 |          0 |          0 |          1 |
+| f:\code\hamu-v2\src\components\common\HamuHeader.vue                      | Vue        |         40 |          0 |          4 |         44 |
+| f:\code\hamu-v2\src\components\dashboard\DashboardBase.vue                | Vue        |          9 |          0 |          3 |         12 |
+| f:\code\hamu-v2\src\components\dashboard\DashboardSideBar.vue             | Vue        |        334 |         29 |         58 |        421 |
+| f:\code\hamu-v2\src\components\dashboard\DashboardSidebar\SidebarItem.vue | Vue        |         15 |          0 |          5 |         20 |
+| f:\code\hamu-v2\src\components\dashboard\DashboardSidebar\SidebarList.vue | Vue        |          8 |          0 |          5 |         13 |
+| f:\code\hamu-v2\src\main.js                                               | JavaScript |          9 |          0 |          3 |         12 |
+| f:\code\hamu-v2\src\pages\HamuHome.vue                                    | Vue        |        208 |          0 |         29 |        237 |
+| f:\code\hamu-v2\src\pages\HamuLogin.vue                                   | Vue        |        278 |          1 |         28 |        307 |
+| f:\code\hamu-v2\src\pages\HamuTest.vue                                    | Vue        |          7 |          0 |          3 |         10 |
+| f:\code\hamu-v2\src\pages\dashboard\DashboardHome.vue                     | Vue        |          7 |          0 |          3 |         10 |
+| f:\code\hamu-v2\src\router\index.js                                       | JavaScript |         35 |          0 |          2 |         37 |
+| f:\code\hamu-v2\src\store\index.js                                        | JavaScript |          8 |          0 |          1 |          9 |
+| f:\code\hamu-v2\src\style.css                                             | CSS        |         14 |          0 |          5 |         19 |
+| f:\code\hamu-v2\src\utils\http.js                                         | JavaScript |         18 |          0 |          2 |         20 |
+| f:\code\hamu-v2\vite.config.js                                            | JavaScript |         29 |          3 |          5 |         37 |
+| Total                                                                     |            |      1,081 |         33 |        167 |      1,281 |
++---------------------------------------------------------------------------+------------+------------+------------+------------+------------+

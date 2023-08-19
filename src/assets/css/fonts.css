@@ -1,0 +1,24 @@
+@font-face {
+  font-family: 'SourceHanSerif';
+  font-style: normal;
+  src: url('/resources/fonts/SourceHanSerifCN-VF.ttf.woff2');
+}
+@font-face {
+  font-family: 'FarNorthRunes';
+  font-style: normal;
+  src: url('/resources/fonts/FarNorthRunes-Regular.woff2');
+  font-weight: 400;
+}
+@font-face {
+  font-family: 'FarNorthRunes';
+  font-style: normal;
+  src: url('/resources/fonts/FarNorthRunes-Heavy.woff2');
+  font-weight: 600;
+}
+@font-face {
+  font-family: 'OctinSpraypaintARg';
+  font-style: normal;
+  src: url('/resources/fonts/OctinSpraypaintARg-Regular.woff2');
+  font-weight: 400;
+}
+
